@@ -1,0 +1,401 @@
+source_row,patient_id,full_name,sex,age,county,visit_date,height_cm,weight_kg,bmi,systolic_bp,diastolic_bp,temperature_c,blood_group,diagnosis,smoker,bmi_calculated,needs_review
+2,PT-0165,Purity Omondi,Female,19.0,Machakos,2025-06-09,164.0,83.8,21.7,142.0,,36.9,O+,Hypertension,,31.2,True
+3,PT-0350,Halima Barasa,Female,45.0,Kiambu,2025-06-01,160.0,44.5,17.4,119.0,77.0,38.9,B+,Malaria,Yes,17.4,False
+4,PT-0395,David Otieno,Male,27.0,Nairobi,2025-10-27,177.0,79.1,,143.0,96.0,38.2,O+,Hypertension,No,25.2,False
+5,PT-0075,Collins Kariuki,Male,28.0,Nairobi,2025-05-29,,54.1,19.6,160.0,98.0,38.0,,Hypertension,No,,False
+6,PT-0240,Grace Barasa,Female,25.0,Kiambu,2025-03-13,163.0,63.8,24.0,121.0,71.0,37.9,O+,Typhoid,No,24.0,False
+7,PT-0215,Faith Abdi,Female,18.0,Kiambu,2025-05-22,170.0,49.1,17.0,111.0,69.0,38.2,A+,Pneumonia,No,17.0,False
+8,PT-0100,Victor Kariuki,Male,40.0,Nakuru,2025-03-23,158.0,66.8,26.8,113.0,76.0,39.1,O+,Pneumonia,No,26.8,False
+9,PT-0061,Brian Njoroge,Male,58.0,Kisumu,2025-02-24,169.0,79.9,28.0,149.0,98.0,37.9,O+,Hypertension,No,28.0,False
+10,PT-0200,Halima Omondi,Female,33.0,Nairobi,2025-08-15,166.0,70.8,25.7,134.0,87.0,,B+,Malaria,No,25.7,False
+11,PT-0229,Brian Barasa,Male,45.0,Kisumu,2025-05-01,163.0,66.6,25.1,102.0,66.0,37.0,A+,Type 2 Diabetes,No,25.1,False
+12,PT-0250,Lucy Omondi,Female,38.0,Nakuru,2025-06-05,,73.0,27.8,,107.0,,,Hypertension,Yes,,True
+13,PT-0320,Purity Kariuki,Female,,Nairobi,2025-07-08,161.0,59.8,23.1,142.0,93.0,36.78,A+,Type 2 Diabetes,No,23.1,False
+14,PT-0071,Kevin Kariuki,Male,50.0,Nairobi,2025-05-16,160.0,81.3,31.8,119.0,76.0,,A+,Type 2 Diabetes,,31.8,False
+15,PT-0105,Lucy Abdi,Female,65.0,Nairobi,2025-02-10,165.0,81.5,29.9,155.0,99.0,36.4,O+,Hypertension,Yes,29.9,False
+16,PT-0384,Kevin Abdi,Male,41.0,Kisumu,2025-02-09,170.0,66.6,23.0,126.0,81.0,38.2,O+,Pneumonia,No,23.0,False
+17,PT-0390,Lucy Barasa,Female,57.0,Nakuru,2025-02-19,158.0,,25.0,127.0,83.0,39.4,O+,Malaria,No,,False
+18,PT-0135,Samuel Achieng,Male,,Nakuru,,194.0,,20.9,111.0,67.0,36.61,O+,Upper Respiratory Tract Infection,Yes,,False
+19,PT-0263,Ian Kiplagat,Male,44.0,Mombasa,2025-03-21,169.0,62.7,22.0,122.0,81.0,36.5,A+,Type 2 Diabetes,No,22.0,False
+21,PT-0398,David Kiplagat,Male,40.0,Nairobi,2025-12-26,187.0,81.0,23.2,125.0,,38.2,O+,Pneumonia,No,23.2,False
+22,PT-0217,Lucy Omondi,Female,58.0,Nakuru,2025-07-05,170.0,64.5,22.3,144.0,92.0,37.4,A+,Hypertension,,22.3,False
+23,PT-0181,Ruth Wafula,Female,48.0,Mombasa,2025-12-12,163.0,48.3,18.2,122.0,79.0,36.3,O+,Upper Respiratory Tract Infection,No,18.2,False
+24,PT-0372,Samuel Kamau,Male,18.0,Nairobi,2025-03-18,169.0,64.0,22.4,117.0,78.0,37.8,B+,Malaria,No,22.4,False
+25,PT-0198,George Chebet,Male,56.0,Kisumu,2025-03-04,165.0,64.8,23.8,133.0,79.0,37.2,A+,Type 2 Diabetes,No,23.8,False
+26,PT-0275,Halima Kariuki,Female,63.0,Kiambu,2025-06-30,,56.6,21.8,158.0,93.0,36.9,O+,Hypertension,,,True
+27,PT-0021,Amina Mwangi,Female,57.0,Nakuru,2025-06-30,176.0,624.0,20.1,129.0,76.0,38.8,,Malaria,No,,True
+28,PT-0343,Moses Mutua,Male,63.0,Kiambu,2025-08-08,176.0,90.5,29.2,101.0,60.0,39.2,O+,Malaria,No,29.2,False
+29,PT-0144,Oscar Abdi,Male,73.0,Mombasa,2025-02-15,173.0,82.1,27.4,143.0,83.0,36.4,A+,Hypertension,Yes,27.4,False
+30,PT-0029,George Mwangi,Male,35.0,Kisumu,2025-08-25,169.0,89.5,31.3,114.0,75.0,38.8,O+,Typhoid,No,31.3,False
+31,PT-0163,Kevin Otieno,Male,21.0,Machakos,,,47.4,17.0,110.0,74.0,38.7,B+,Pneumonia,No,,False
+32,PT-0252,Joyce Nyambura,Female,53.0,Mombasa,2025-03-05,165.0,91.3,33.5,120.0,80.0,36.5,,Type 2 Diabetes,No,33.5,False
+33,PT-0251,Kevin Kiplagat,,58.0,Machakos,2025-02-03,165.0,68.6,25.2,123.0,80.0,37.5,O-,Upper Respiratory Tract Infection,Yes,25.2,False
+34,PT-0278,Brian Nyambura,Male,7.0,Kisumu,2025-07-31,164.0,68.6,25.5,134.0,89.0,,O+,Type 2 Diabetes,No,25.5,True
+35,PT-0175,Cynthia Otieno,Female,42.0,Kisumu,2025-11-17,173.0,68.3,,,85.0,36.6,O+,Hypertension,No,22.8,False
+36,PT-0344,Ruth Kariuki,Female,34.0,Machakos,2025-06-20,165.0,64.5,23.7,102.0,67.0,37.1,B+,Upper Respiratory Tract Infection,Yes,23.7,False
+37,PT-0238,Halima Mutua,Female,50.0,Nairobi,2025-12-29,165.0,75.3,40.2,110.0,70.0,39.0,B+,Malaria,,27.7,True
+38,PT-0375,Collins Abdi,Male,18.0,Nairobi,2025-09-09,180.0,82.3,25.4,132.0,85.0,38.5,O-,Malaria,No,25.4,False
+39,PT-0137,Yusuf Abdi,Male,45.0,Mombasa,2025-12-30,157.0,52.0,21.1,127.0,76.0,38.7,A+,Malaria,No,21.1,False
+40,PT-0231,Wanjiru Kiplagat,Female,51.0,Kiambu,2025-09-27,157.0,70.1,28.4,140.0,92.0,,A+,Malaria,No,28.4,True
+41,PT-0156,Halima Omondi,Female,68.0,Mombasa,2025-02-20,154.0,56.0,,125.0,81.0,38.6,,,No,23.6,False
+42,PT-0183,David Kamau,Male,41.0,Kiambu,2025-02-16,162.0,71.0,23.1,128.0,75.0,38.4,O+,Typhoid,Yes,27.1,True
+43,PT-0057,Peter Chebet,Male,34.0,Kisumu,2025-11-06,176.0,69.1,22.3,139.0,91.0,37.4,B+,Hypertension,No,22.3,False
+44,PT-0022,Grace Chebet,Female,61.0,Nakuru,2025-12-23,161.0,58.8,22.7,119.0,76.0,37.3,O+,Type 2 Diabetes,,22.7,False
+45,PT-0015,Oscar Wafula,Male,999.0,Mombasa,2025-03-17,17.8,88.6,28.0,141.0,93.0,37.0,O+,,No,,True
+46,PT-0040,Zawadi Wambui,Female,44.0,Machakos,2025-11-19,175.0,,26.6,140.0,87.0,36.7,O+,Hypertension,No,,False
+47,PT-0367,Quentin Otieno,Male,45.0,Kisumu,2025-01-12,186.0,,26.6,99.0,61.0,39.0,A+,Pneumonia,,,False
+48,PT-0258,Collins Kamau,Male,50.0,Nairobi,2025-11-14,171.0,65.8,22.5,159.0,107.0,,B+,Hypertension,No,22.5,False
+49,PT-0174,Samuel Wafula,Male,62.0,,2025-01-03,178.0,87.2,27.5,127.0,85.0,,A+,Upper Respiratory Tract Infection,No,27.5,False
+50,PT-0114,Wanjiru Kariuki,Female,19.0,Kiambu,2025-03-24,155.0,61.5,25.6,90.0,55.0,38.7,B+,Pneumonia,Yes,25.6,False
+51,PT-0260,Moses Kiplagat,Male,55.0,Machakos,2025-08-07,182.0,72.9,22.0,119.0,72.0,36.5,O+,Type 2 Diabetes,No,22.0,False
+52,PT-0130,Cynthia Achieng,Female,37.0,Nakuru,2025-09-13,164.0,78.1,29.0,102.0,66.0,38.1,O+,Malaria,No,29.0,False
+53,PT-0151,Joyce Nyambura,Female,62.0,Nakuru,2025-01-09,154.0,72.3,60.5,114.0,69.0,36.5,O+,Type 2 Diabetes,No,30.5,True
+54,PT-0197,Wanjiru Kiplagat,Female,18.0,Machakos,2025-03-09,166.0,51.3,18.6,106.0,70.0,37.2,O+,Upper Respiratory Tract Infection,No,18.6,False
+55,PT-0303,Moses Kiplagat,Male,62.0,Nairobi,2025-07-01,185.0,73.6,21.5,172.0,99.0,36.0,O-,Hypertension,,21.5,False
+56,PT-0032,Ian Barasa,Male,41.0,,2025-08-28,180.0,73.2,22.6,113.0,68.0,37.9,A+,Malaria,No,22.6,False
+57,PT-0341,Kevin Kariuki,Male,45.0,Machakos,2025-04-18,177.0,75.0,23.9,161.0,95.0,36.5,O+,Hypertension,No,23.9,False
+58,PT-0257,Lucy Chebet,Female,35.0,Machakos,2025-04-23,163.0,65.3,30.6,129.0,87.0,36.5,A+,Type 2 Diabetes,No,24.6,True
+59,PT-0190,Amina Chebet,Female,55.0,Nairobi,2025-03-08,166.0,66.7,24.2,127.0,81.0,36.2,O+,Upper Respiratory Tract Infection,No,24.2,False
+60,PT-0219,Lucy Otieno,Female,26.0,Kiambu,2025-06-27,151.0,44.5,19.5,99.0,61.0,38.0,A+,Pneumonia,Yes,19.5,False
+61,PT-0196,Joyce Mwangi,Female,54.0,Machakos,2025-03-07,157.0,49.5,20.1,121.0,75.0,37.4,B+,Upper Respiratory Tract Infection,No,20.1,False
+62,PT-0189,Kevin Otieno,Male,29.0,Mombasa,2025-09-20,163.0,68.7,25.9,153.0,93.0,37.4,B+,Upper Respiratory Tract Infection,Yes,25.9,False
+63,PT-0298,Samuel Omondi,Male,43.0,Nairobi,2025-05-31,173.0,82.4,27.5,110.0,70.0,36.6,,Type 2 Diabetes,No,27.5,False
+64,PT-0204,Joyce Barasa,Female,36.0,Kiambu,2025-04-09,,99.6,34.9,129.0,87.0,38.1,A+,Pneumonia,No,,True
+65,PT-0102,Esther Wafula,Female,20.0,Nakuru,2025-10-03,175.0,66.8,21.8,116.0,71.0,38.9,O+,Malaria,No,21.8,False
+66,PT-0140,Faith Kiplagat,Female,55.0,,2025-03-13,168.0,,23.7,165.0,100.0,,O+,Hypertension,No,,True
+67,PT-0388,Halima Chebet,Female,44.0,Mombasa,2025-06-13,164.0,72.6,27.0,115.0,,38.2,A+,,No,27.0,False
+68,PT-0396,Esther Mwangi,Female,43.0,Nairobi,2025-03-05,155.0,62.8,26.1,123.0,81.0,36.3,A-,Upper Respiratory Tract Infection,No,26.1,False
+69,PT-0176,Collins Wambui,Male,46.0,Nairobi,2025-12-27,188.0,85.9,24.3,105.0,62.0,38.5,O+,Pneumonia,No,24.3,False
+70,PT-0280,Amina Achieng,Female,22.0,Mombasa,2025-12-05,167.0,72.9,26.1,105.0,66.0,,B+,Upper Respiratory Tract Infection,Yes,26.1,True
+71,PT-0287,Cynthia Njoroge,Female,39.0,Mombasa,2025-11-05,170.0,57.1,19.8,149.0,98.0,,O+,Pneumonia,No,19.8,False
+72,PT-0125,Amina Abdi,Female,34.0,Nairobi,2025-10-19,153.0,62.8,26.8,128.0,85.0,37.6,O+,Malaria,No,26.8,False
+73,PT-0180,Lucy Njoroge,Female,21.0,Machakos,2025-05-07,169.0,74.4,26.0,,82.0,38.61,O+,Pneumonia,No,26.0,False
+74,PT-0314,Samuel Kiplagat,Male,45.0,Mombasa,,175.0,77.9,15.9,,70.0,38.0,O+,Malaria,No,25.4,True
+76,PT-0136,Oscar Wambui,Male,53.0,Machakos,2025-02-26,171.0,75.3,25.8,110.0,70.0,38.0,O+,Pneumonia,Yes,25.8,False
+77,PT-0055,Mercy Nyambura,,35.0,Machakos,2025-07-11,168.0,79.0,28.0,118.0,71.0,38.7,O+,,Yes,28.0,False
+78,PT-0355,Joyce Achieng,Female,,Nakuru,2025-02-08,,61.2,24.2,112.0,73.0,,B+,Typhoid,No,,True
+79,PT-0056,Daniel Chebet,Male,53.0,Mombasa,2025-10-11,171.0,64.8,22.2,111.0,67.0,35.6,A+,Type 2 Diabetes,No,22.2,False
+80,PT-0397,Wanjiru Omondi,Female,49.0,Nakuru,2025-08-28,159.0,53.6,21.2,144.0,94.0,38.7,O-,Typhoid,No,21.2,False
+81,PT-0154,Lucy Njoroge,Female,58.0,Kiambu,2025-04-05,156.0,54.2,22.3,102.0,67.0,36.4,B+,Type 2 Diabetes,Yes,22.3,False
+82,PT-0042,Mercy Omondi,Female,49.0,Mombasa,2025-04-08,153.0,,26.5,119.0,70.0,,O+,Upper Respiratory Tract Infection,No,,True
+83,PT-0017,Samuel Mutua,Male,57.0,Nairobi,2025-08-23,174.0,80.3,26.5,134.0,88.0,36.9,B+,Type 2 Diabetes,No,26.5,False
+84,PT-0309,Halima Wambui,Female,365.0,Nakuru,2025-03-10,157.0,62.8,25.5,115.0,76.0,36.2,,Upper Respiratory Tract Infection,Yes,25.5,True
+85,PT-0191,Samuel Otieno,Male,71.0,Kisumu,2025-07-26,159.0,70.9,28.0,122.0,70.0,36.9,,Type 2 Diabetes,No,28.0,False
+86,PT-0211,Purity Chebet,Female,76.0,Mombasa,2025-04-05,165.0,66.1,24.3,142.0,,37.2,O+,Hypertension,No,24.3,False
+87,PT-0241,Victor Kariuki,Male,44.0,Nairobi,2025-02-03,173.0,52.7,17.6,134.0,85.0,,B+,Type 2 Diabetes,No,17.6,True
+88,PT-0324,Ian Abdi,Male,34.0,Nairobi,2025-04-19,165.0,82.5,,120.0,71.0,36.1,O+,Type 2 Diabetes,No,30.3,False
+89,PT-0318,Mercy Kiplagat,Female,64.0,Kiambu,2025-03-12,160.0,64.9,25.4,148.0,99.0,37.3,O+,Hypertension,No,25.4,False
+90,PT-0359,George Njoroge,Male,45.0,Machakos,2025-09-09,169.0,87.8,30.7,109.0,65.0,38.5,O+,Malaria,No,30.7,False
+91,PT-0089,Samuel Wambui,Male,23.0,Nairobi,2025-01-05,179.0,94.0,29.3,107.0,66.0,36.7,O+,Upper Respiratory Tract Infection,Yes,29.3,False
+92,PT-0290,Ian Mwangi,Male,50.0,,2025-02-20,168.0,87.4,31.0,136.0,88.0,37.2,A+,Type 2 Diabetes,No,31.0,False
+93,PT-0340,Ian Achieng,Male,18.0,Mombasa,2025-06-14,164.0,67.6,25.1,107.0,65.0,36.4,O+,Upper Respiratory Tract Infection,Yes,25.1,False
+94,PT-0345,Tabitha Njoroge,Female,62.0,Kiambu,2025-09-04,163.0,83.8,31.5,146.0,84.0,36.5,O+,Hypertension,No,31.5,False
+95,PT-0268,Brian Barasa,,42.0,Kisumu,2025-10-23,169.0,80.9,,101.0,63.0,,A+,Type 2 Diabetes,No,28.3,True
+96,PT-0283,Grace Otieno,Female,27.0,Kiambu,2025-08-17,165.0,46.3,,,72.0,36.8,O+,Upper Respiratory Tract Infection,No,17.0,False
+97,PT-0205,Moses Barasa,Male,30.0,Nairobi,2025-07-19,167.0,73.7,26.4,127.0,75.0,38.2,O+,Malaria,Yes,26.4,False
+98,PT-0027,David Mwangi,Male,58.0,Kiambu,2025-02-01,173.0,94.9,31.7,119.0,77.0,,AB+,Upper Respiratory Tract Infection,No,31.7,False
+99,PT-0045,Purity Omondi,Female,52.0,Nakuru,2025-02-10,160.0,73.5,34.7,116.0,68.0,38.7,O+,Typhoid,No,28.7,True
+100,PT-0050,Amina Omondi,Female,39.0,Nakuru,2025-07-14,159.0,71.4,28.2,119.0,79.0,12.0,A+,Typhoid,Yes,28.2,True
+101,PT-0236,Joyce Achieng,Female,29.0,Kiambu,2025-03-01,165.0,79.8,29.3,124.0,,38.0,A+,Pneumonia,No,29.3,False
+102,PT-0084,Amina Kiplagat,,51.0,Kisumu,2025-09-20,161.0,66.7,,,100.0,36.7,O-,Hypertension,No,25.7,True
+103,PT-0012,Mercy Otieno,,24.0,Nairobi,2025-03-20,147.0,44.5,20.6,130.0,83.0,38.4,O+,Pneumonia,Yes,20.6,False
+104,PT-0266,Halima Wambui,Female,26.0,Nairobi,2025-01-09,168.0,73.9,26.2,118.0,75.0,38.4,A+,Typhoid,No,26.2,False
+105,PT-0370,Tabitha Kiplagat,Female,18.0,Mombasa,2025-03-23,158.0,55.8,22.4,133.0,85.0,36.9,B+,Upper Respiratory Tract Infection,,22.4,False
+106,PT-0368,Moses Mutua,Male,50.0,Kisumu,2025-10-14,,86.9,,104.0,64.0,35.8,A+,Upper Respiratory Tract Infection,No,,True
+107,PT-0159,Lucy Kiplagat,Female,33.0,,2025-11-03,170.0,96.5,33.4,108.0,69.0,12.0,O+,Type 2 Diabetes,No,33.4,True
+108,PT-0013,Faith Otieno,Female,33.0,Kisumu,2025-02-11,,67.9,25.9,140.0,89.0,37.6,O+,Hypertension,No,,False
+109,PT-0352,Cynthia Njoroge,Female,43.0,Nakuru,2025-10-18,153.0,51.2,21.9,128.0,76.0,36.2,,Upper Respiratory Tract Infection,No,21.9,False
+110,PT-0138,Halima Achieng,Female,62.0,Nairobi,2025-08-19,172.0,77.8,26.3,122.0,,,B+,Type 2 Diabetes,No,26.3,True
+111,PT-0088,Yusuf Barasa,Male,71.0,Kiambu,2025-02-23,183.0,102.9,30.7,125.0,81.0,36.2,O+,Type 2 Diabetes,No,30.7,False
+112,PT-0054,Moses Kariuki,Male,19.0,Machakos,2025-10-16,,71.6,25.1,113.0,75.0,39.1,AB+,Malaria,Yes,,False
+113,PT-0226,George Wafula,Male,21.0,Kiambu,,174.0,70.7,23.4,,63.0,38.8,B+,Malaria,No,23.4,False
+114,PT-0062,Quentin Achieng,Male,40.0,Nairobi,2025-10-30,,74.0,22.1,126.0,83.0,38.0,O+,Malaria,No,,True
+115,PT-0166,Collins Kamau,Male,61.0,Nairobi,2025-12-02,166.0,59.3,21.5,154.0,101.0,36.4,O+,Hypertension,No,21.5,False
+117,PT-0187,Wanjiru Nyambura,Female,59.0,Nairobi,2025-11-14,164.0,82.2,30.6,117.0,74.0,37.6,O+,Hypertension,Yes,30.6,False
+118,PT-0147,George Kiplagat,Male,18.0,Nakuru,2025-07-29,152.0,74.0,38.0,104.0,62.0,38.8,O+,Malaria,No,32.0,True
+119,PT-0160,Joyce Barasa,Female,61.0,Kiambu,2025-08-05,158.0,62.4,25.0,107.0,70.0,36.9,O+,Type 2 Diabetes,No,25.0,False
+120,PT-0170,Oscar Otieno,Male,37.0,Mombasa,2025-04-11,,72.4,24.2,134.0,87.0,38.3,A+,Malaria,No,,False
+121,PT-0103,Purity Mutua,Female,35.0,,2025-10-09,173.0,72.7,24.3,,79.0,37.2,B+,Typhoid,No,24.3,True
+122,PT-0313,Moses Barasa,Male,38.0,Nakuru,2025-03-22,185.0,70.7,,147.0,87.0,36.7,B+,Hypertension,No,20.7,False
+123,PT-0361,Moses Nyambura,,-4.0,Kisumu,2025-09-28,178.0,91.5,28.9,135.0,87.0,36.8,O+,Type 2 Diabetes,No,28.9,True
+125,PT-0208,Naomi Chebet,Female,48.0,Machakos,2025-02-25,165.0,58.4,21.5,123.0,73.0,36.3,O+,Upper Respiratory Tract Infection,No,21.5,False
+126,PT-0107,Ian Njoroge,Male,999.0,Nairobi,2025-09-15,173.0,69.3,23.2,144.0,92.0,37.0,B+,Hypertension,No,23.2,True
+127,PT-0118,Naomi Njoroge,Female,38.0,Nairobi,2025-09-16,151.0,,26.6,109.0,72.0,36.7,AB+,Upper Respiratory Tract Infection,,,False
+128,PT-0297,Peter Nyambura,Male,25.0,Kisumu,2025-09-18,173.0,80.0,26.7,111.0,73.0,38.7,O+,Malaria,No,26.7,False
+129,PT-0377,Daniel Wambui,Male,24.0,Nairobi,2025-10-25,,86.1,29.4,109.0,63.0,38.5,B+,Malaria,No,,True
+130,PT-0316,Moses Chebet,Male,50.0,Kisumu,2025-07-19,177.0,96.5,30.8,133.0,81.0,38.7,A+,Malaria,No,30.8,False
+132,PT-0083,Ian Nyambura,Male,47.0,Machakos,2025-04-05,183.0,104.1,31.1,95.0,61.0,12.0,O+,Type 2 Diabetes,Yes,31.1,True
+133,PT-0053,Mercy Mutua,Female,27.0,Nairobi,2025-09-17,178.0,73.9,23.3,122.0,73.0,38.89,A+,Pneumonia,Yes,23.3,False
+134,PT-0131,Kevin Kariuki,Male,45.0,Kiambu,2025-09-02,173.0,86.6,28.9,110.0,70.0,38.1,,Pneumonia,No,28.9,False
+135,PT-0145,Amina Kariuki,Female,33.0,Nairobi,2025-02-02,154.0,69.5,29.3,117.0,77.0,36.0,O+,Upper Respiratory Tract Infection,No,29.3,False
+136,PT-0099,Joyce Barasa,Female,,Kiambu,2025-09-14,155.0,61.1,25.4,112.0,66.0,,A+,Malaria,Yes,25.4,False
+137,PT-0199,Zawadi Chebet,Female,,Kiambu,2025-12-20,151.0,55.5,24.3,169.0,113.0,37.0,O+,Hypertension,No,24.3,False
+138,PT-0305,Joyce Chebet,Female,46.0,Kisumu,2025-07-10,156.0,41.4,17.0,114.0,71.0,39.1,,Malaria,Yes,17.0,False
+139,PT-0213,Faith Otieno,Female,60.0,Kiambu,2025-04-16,,50.7,22.5,116.0,73.0,38.2,O+,Pneumonia,No,,False
+140,PT-0220,Samuel Mutua,Male,35.0,Kiambu,2025-08-21,155.0,54.5,22.7,156.0,93.0,37.1,O+,Hypertension,No,22.7,False
+141,PT-0230,Hassan Abdi,Male,40.0,Kiambu,2025-12-08,190.0,80.0,22.2,132.0,80.0,38.1,O+,Pneumonia,No,22.2,False
+142,PT-0106,Yusuf Kamau,Male,45.0,Mombasa,2025-03-22,174.0,81.3,26.9,149.0,97.0,36.8,A+,Hypertension,,26.9,False
+144,PT-0233,Zawadi Kamau,Female,43.0,,2025-05-20,170.0,66.7,23.1,170.0,110.0,36.1,A+,Hypertension,No,23.1,False
+145,PT-0206,George Achieng,Male,40.0,Kiambu,2025-05-22,178.0,75.9,24.0,,63.0,37.11,,Upper Respiratory Tract Infection,No,24.0,False
+146,PT-0104,Esther Achieng,Female,38.0,Machakos,2025-11-11,166.0,68.3,24.8,135.0,85.0,38.7,A+,Pneumonia,No,24.8,False
+147,PT-0203,Zawadi Barasa,Female,39.0,Nairobi,2025-01-09,156.0,71.6,29.4,146.0,93.0,36.2,,Hypertension,No,29.4,False
+148,PT-0078,Tabitha Abdi,Female,55.0,Kiambu,2025-05-29,,64.4,29.4,156.0,90.0,37.4,O+,Hypertension,Yes,,True
+149,PT-0009,Hassan Kariuki,Male,35.0,Nakuru,2025-03-27,173.0,108.1,36.1,76.0,116.0,,B+,Type 2 Diabetes,,36.1,True
+150,PT-0003,Lucy Kariuki,Female,55.0,Nakuru,2025-05-14,153.0,60.2,25.7,106.0,70.0,,,Malaria,Yes,25.7,True
+151,PT-0269,Ruth Abdi,Female,18.0,Mombasa,2025-03-05,156.0,52.9,21.7,129.0,80.0,38.9,B-,Malaria,No,21.7,False
+152,PT-0201,George Kamau,Male,35.0,Nairobi,2025-02-07,170.0,92.2,31.9,123.0,72.0,36.6,,Type 2 Diabetes,,31.9,False
+153,PT-0387,Oscar Chebet,Male,999.0,Nairobi,2025-07-06,,68.3,23.4,125.0,76.0,38.7,B+,Pneumonia,No,,True
+154,PT-0026,Purity Abdi,Female,,Nairobi,2025-05-24,157.0,77.8,31.6,119.0,79.0,38.3,O+,,No,31.6,False
+155,PT-0256,Amina Kiplagat,Female,53.0,Mombasa,2025-07-16,154.0,55.4,23.4,109.0,69.0,36.5,,Type 2 Diabetes,Yes,23.4,False
+156,PT-0285,Brian Omondi,Male,33.0,Machakos,2025-01-06,159.0,63.5,25.1,124.0,73.0,39.0,B+,Pneumonia,No,25.1,False
+157,PT-0051,David Kiplagat,Male,26.0,Kisumu,2025-10-22,180.0,96.1,29.7,112.0,68.0,38.0,B+,Pneumonia,Yes,29.7,False
+158,PT-0086,Ruth Wambui,Female,36.0,Nakuru,2025-11-04,164.0,76.2,28.3,125.0,84.0,38.0,B+,Typhoid,Yes,28.3,False
+159,PT-0346,Victor Nyambura,Male,31.0,Kisumu,2025-02-14,170.0,80.1,27.7,128.0,74.0,36.2,O+,Type 2 Diabetes,No,27.7,False
+160,PT-0023,Purity Mwangi,Female,66.0,Kiambu,2025-01-17,167.0,53.6,49.2,122.0,72.0,,B+,Upper Respiratory Tract Infection,No,19.2,True
+161,PT-0063,Zawadi Otieno,Female,35.0,Nairobi,2025-11-18,164.0,59.6,,121.0,81.0,38.39,O-,Typhoid,No,22.2,False
+163,PT-0070,Oscar Otieno,Male,,Nakuru,2032-03-11,171.0,87.1,29.8,119.0,78.0,38.2,A-,Malaria,No,29.8,False
+164,PT-0321,Faith Omondi,Female,72.0,,2025-09-10,163.0,70.8,26.6,127.0,85.0,36.8,O+,Upper Respiratory Tract Infection,No,26.6,False
+165,PT-0276,Samuel Achieng,Male,77.0,,2025-09-09,160.0,67.9,26.5,158.0,98.0,,B+,Hypertension,No,26.5,True
+166,PT-0337,Hassan Nyambura,,28.0,Mombasa,2025-02-09,168.0,71.7,25.4,106.0,62.0,39.61,A+,Malaria,No,25.4,False
+167,PT-0185,David Abdi,Male,27.0,Kisumu,,161.0,55.4,21.4,113.0,69.0,,O+,Upper Respiratory Tract Infection,No,21.4,True
+168,PT-0244,Yusuf Kariuki,Male,54.0,Nairobi,2025-12-30,176.0,77.6,25.1,122.0,74.0,36.1,A+,Upper Respiratory Tract Infection,Yes,25.1,False
+169,PT-0096,Grace Barasa,Female,28.0,Nairobi,2025-09-07,166.0,72.1,,133.0,81.0,39.0,O+,Malaria,No,26.2,False
+170,PT-0152,Naomi Chebet,Female,31.0,Kisumu,2025-06-22,151.0,62.3,23.3,144.0,92.0,37.0,B+,Type 2 Diabetes,No,27.3,True
+171,PT-0296,Lucy Chebet,Female,53.0,Kiambu,2025-12-22,165.0,60.4,22.2,115.0,76.0,38.6,O+,Typhoid,No,22.2,False
+172,PT-0030,Amina Achieng,Female,18.0,Mombasa,2025-08-30,159.0,66.4,26.3,157.0,93.0,36.6,O-,Hypertension,No,26.3,False
+173,PT-0234,Joyce Achieng,Female,28.0,Nairobi,2025-06-23,171.0,79.3,,120.0,73.0,37.9,O+,Malaria,Yes,27.1,False
+174,PT-0291,Oscar Nyambura,Male,65.0,,2025-06-15,167.0,69.7,25.0,133.0,82.0,36.7,A+,Type 2 Diabetes,Yes,25.0,False
+175,PT-0036,Kevin Nyambura,Male,36.0,Kiambu,2025-01-22,187.0,82.5,23.6,,91.0,37.0,O+,Upper Respiratory Tract Infection,No,23.6,False
+176,PT-0385,Tabitha Otieno,Female,19.0,Kisumu,2025-10-25,162.0,80.6,30.7,,77.0,,A+,Upper Respiratory Tract Infection,No,30.7,True
+177,PT-0202,Quentin Wambui,Male,57.0,Nakuru,2025-04-06,170.0,77.5,26.8,102.0,66.0,36.6,A+,Type 2 Diabetes,No,26.8,False
+178,PT-0363,Hassan Kariuki,Male,22.0,Machakos,2025-03-05,175.0,68.1,22.2,156.0,97.0,36.89,A+,Hypertension,Yes,22.2,False
+179,PT-0392,Quentin Wafula,Male,62.0,Mombasa,2025-01-10,170.0,65.1,22.5,140.0,87.0,36.3,O+,Hypertension,No,22.5,False
+180,PT-0117,Kevin Kamau,Male,55.0,Mombasa,2025-03-26,178.0,77.9,24.6,109.0,68.0,36.3,O+,Upper Respiratory Tract Infection,No,24.6,False
+181,PT-0087,Lucy Wambui,Female,20.0,Kiambu,2025-07-25,159.0,74.0,,100.0,66.0,37.3,O+,Malaria,No,29.3,False
+182,PT-0362,Quentin Mutua,Male,42.0,Nairobi,2025-03-20,179.0,70.9,22.1,116.0,69.0,36.9,,Hypertension,No,22.1,False
+183,PT-0124,Daniel Njoroge,Male,61.0,Kiambu,2025-01-09,174.0,53.6,17.7,125.0,75.0,36.4,B+,Type 2 Diabetes,No,17.7,False
+184,PT-0047,Mercy Abdi,Female,38.0,Kisumu,2025-05-10,168.0,90.0,31.9,,,37.3,O-,Hypertension,No,31.9,False
+185,PT-0004,Samuel Abdi,Male,32.0,Nakuru,2025-06-07,176.0,88.3,28.5,123.0,79.0,,A+,Upper Respiratory Tract Infection,No,28.5,True
+186,PT-0113,Wanjiru Mutua,Female,58.0,Machakos,2025-09-19,151.0,63.6,27.9,106.0,63.0,37.72,O+,Type 2 Diabetes,Yes,27.9,False
+187,PT-0184,Hassan Achieng,Male,70.0,Nairobi,2025-06-08,,54.5,17.0,126.0,84.0,37.0,O+,Hypertension,No,,True
+188,PT-0031,Hassan Chebet,Male,55.0,Nairobi,2025-02-04,184.0,95.0,28.1,131.0,82.0,36.2,AB+,Upper Respiratory Tract Infection,No,28.1,False
+189,PT-0155,Wanjiru Kamau,Female,18.0,Kiambu,2025-02-03,161.0,65.6,25.3,114.0,71.0,37.7,O+,Typhoid,No,25.3,False
+190,PT-0282,Ian Nyambura,Male,65.0,Nakuru,2025-07-14,,86.3,27.9,172.0,104.0,36.2,B+,Hypertension,No,,False
+191,PT-0095,Mercy Achieng,Female,22.0,Kiambu,2025-11-18,174.0,59.1,19.5,118.0,72.0,38.2,A+,Malaria,No,19.5,False
+192,PT-0332,Tabitha Wafula,Female,37.0,,2025-02-21,165.0,52.5,19.3,133.0,84.0,37.5,B+,Malaria,Yes,19.3,False
+193,PT-0383,George Kariuki,Male,58.0,Nairobi,2025-02-11,186.0,76.1,28.0,156.0,103.0,36.5,O+,Hypertension,Yes,22.0,True
+194,PT-0052,Lucy Kiplagat,Female,49.0,Mombasa,2025-09-25,161.0,72.3,,101.0,61.0,38.7,A+,Pneumonia,Yes,27.9,False
+195,PT-0037,Tabitha Abdi,Female,28.0,Nakuru,2025-06-22,165.0,56.4,20.7,122.0,73.0,39.0,A-,Typhoid,No,20.7,False
+196,PT-0098,Purity Kariuki,Female,52.0,Kisumu,2025-01-30,157.0,53.3,21.6,154.0,98.0,36.8,O+,Hypertension,No,21.6,False
+197,PT-0277,Samuel Mutua,Male,,Nakuru,2025-07-24,177.0,64.3,20.5,140.0,91.0,37.3,O-,Upper Respiratory Tract Infection,No,20.5,False
+198,PT-0014,Lucy Mwangi,,26.0,Machakos,2025-03-09,167.0,,19.3,115.0,70.0,38.8,,Typhoid,No,,False
+199,PT-0164,Esther Nyambura,Female,41.0,Nairobi,,152.0,54.4,23.5,126.0,75.0,38.9,A+,Malaria,No,23.5,False
+200,PT-0059,Joyce Nyambura,Female,35.0,,,164.0,70.0,26.0,123.0,81.0,37.0,,Upper Respiratory Tract Infection,Yes,26.0,False
+201,PT-0261,David Nyambura,Male,30.0,,2025-08-21,173.0,89.4,29.9,135.0,83.0,36.9,B+,Upper Respiratory Tract Infection,No,29.9,False
+202,PT-0235,Wanjiru Barasa,Female,34.0,Nairobi,2025-06-07,,82.5,30.7,129.0,87.0,36.5,O+,Type 2 Diabetes,,,False
+203,PT-0248,Victor Njoroge,Male,70.0,Nairobi,2025-10-29,165.0,62.7,23.0,112.0,67.0,37.3,AB+,Type 2 Diabetes,No,23.0,False
+204,PT-0311,David Nyambura,Male,,Nakuru,2025-12-19,169.0,73.5,25.7,123.0,76.0,37.1,A+,Upper Respiratory Tract Infection,Yes,25.7,False
+205,PT-0312,Moses Kariuki,Male,,Nakuru,2025-11-14,183.0,92.7,27.7,124.0,83.0,37.3,,Upper Respiratory Tract Infection,,27.7,False
+206,PT-0319,Samuel Nyambura,Male,18.0,Kisumu,2025-12-17,194.0,97.8,26.0,115.0,76.0,36.6,O+,Upper Respiratory Tract Infection,Yes,26.0,False
+207,PT-0010,Kevin Otieno,Male,54.0,Nairobi,2025-08-28,172.0,80.1,27.1,400.0,92.0,36.4,A+,Hypertension,No,27.1,True
+208,PT-0295,Naomi Kamau,Female,26.0,Kisumu,2025-06-10,168.0,,21.6,74.0,124.0,39.4,,Pneumonia,No,,True
+209,PT-0129,Tabitha Wafula,Female,49.0,Nairobi,2025-06-22,,75.0,28.9,119.0,70.0,39.4,A+,Malaria,No,,False
+210,PT-0326,Lucy Achieng,Female,47.0,Nairobi,2025-11-17,158.0,59.1,23.7,162.0,99.0,37.1,O+,Hypertension,No,23.7,False
+211,PT-0079,Faith Mwangi,Female,34.0,Nairobi,2025-06-17,168.0,67.1,23.8,129.0,84.0,39.2,O+,Malaria,No,23.8,False
+212,PT-0046,Quentin Chebet,Male,56.0,Nairobi,2025-11-10,17.9,56.7,17.7,129.0,85.0,36.9,A+,Upper Respiratory Tract Infection,No,,True
+213,PT-0116,Yusuf Barasa,Male,,Nairobi,2025-07-29,176.0,52.7,17.0,105.0,65.0,38.3,O+,Typhoid,,17.0,False
+214,PT-0342,Quentin Wafula,Male,41.0,Kisumu,2025-02-02,166.0,65.2,23.7,113.0,70.0,38.1,O+,Malaria,No,23.7,False
+215,PT-0158,Purity Kiplagat,Female,36.0,Nairobi,2025-06-14,161.0,46.7,18.0,71.0,119.0,38.5,,Malaria,No,18.0,True
+216,PT-0025,Wanjiru Barasa,Female,130.0,Nakuru,2025-07-01,163.0,51.4,19.3,149.0,91.0,38.7,O+,Malaria,No,19.3,True
+217,PT-0259,Moses Otieno,Male,40.0,Kiambu,2025-09-17,182.0,93.1,28.1,149.0,91.0,37.8,A+,Hypertension,No,28.1,False
+218,PT-0279,Joyce Omondi,Female,46.0,Kiambu,2025-02-23,158.0,61.3,24.6,,69.0,37.7,O+,Upper Respiratory Tract Infection,No,24.6,False
+219,PT-0369,Peter Wafula,Male,42.0,Kiambu,2025-06-05,185.0,91.0,26.6,115.0,73.0,38.78,B+,Malaria,No,26.6,False
+220,PT-0239,Ian Nyambura,Male,62.0,Kisumu,2025-05-06,183.0,77.7,23.2,134.0,86.0,37.1,,Type 2 Diabetes,No,23.2,False
+221,PT-0127,Mercy Mutua,Female,19.0,Nakuru,2025-05-30,,61.5,24.3,113.0,67.0,36.0,O+,Upper Respiratory Tract Infection,,,True
+222,PT-0349,Zawadi Kamau,Female,61.0,Nairobi,2025-10-12,162.0,67.3,25.6,118.0,72.0,38.7,O+,Malaria,No,25.6,False
+223,PT-0227,Moses Abdi,Male,49.0,Kisumu,2025-06-11,171.0,72.4,24.8,124.0,82.0,38.5,O+,Malaria,,24.8,False
+224,PT-0348,Lucy Kariuki,,74.0,Kiambu,2025-10-17,160.0,61.9,24.2,122.0,77.0,36.7,O+,Type 2 Diabetes,No,24.2,False
+225,PT-0034,Moses Wambui,Male,34.0,Mombasa,2025-01-13,,85.0,27.4,136.0,88.0,37.8,AB+,Malaria,No,,False
+226,PT-0289,Oscar Otieno,Male,48.0,Nakuru,2025-12-09,183.0,,27.1,113.0,72.0,37.22,,Type 2 Diabetes,No,,False
+227,PT-0123,Brian Wambui,Male,62.0,Mombasa,2025-11-06,,61.9,21.9,138.0,87.0,36.3,A+,Hypertension,Yes,,False
+228,PT-0221,Victor Kiplagat,Male,65.0,Nairobi,2025-07-07,17.5,91.7,29.9,111.0,,,O+,Type 2 Diabetes,No,,True
+229,PT-0064,Purity Kamau,Female,24.0,Kisumu,2025-12-06,170.0,74.7,25.8,129.0,84.0,39.0,,Typhoid,No,25.8,False
+230,PT-0272,Ruth Wafula,Female,77.0,Nakuru,2025-09-30,152.0,60.2,26.1,148.0,99.0,36.11,B-,Hypertension,Yes,26.1,False
+231,PT-0067,Oscar Barasa,Male,32.0,Nairobi,,182.0,94.5,28.5,104.0,70.0,37.0,O+,Upper Respiratory Tract Infection,No,28.5,False
+232,PT-0195,Samuel Omondi,Male,61.0,Kisumu,2025-01-07,175.0,87.2,28.5,116.0,69.0,39.0,O+,Typhoid,No,28.5,False
+233,PT-0178,Naomi Barasa,Female,42.0,Nairobi,2025-02-02,163.0,72.5,27.3,121.0,73.0,36.6,A+,Upper Respiratory Tract Infection,Yes,27.3,False
+234,PT-0207,Ian Barasa,Male,43.0,Kisumu,2025-07-20,169.0,77.5,27.1,140.0,82.0,37.4,A+,Type 2 Diabetes,No,27.1,False
+235,PT-0128,Moses Omondi,Male,42.0,Nairobi,2025-03-25,177.0,87.0,27.8,117.0,69.0,39.39,O+,Pneumonia,No,27.8,False
+236,PT-0286,Brian Barasa,Male,39.0,Nairobi,2025-07-02,177.0,78.0,24.9,115.0,68.0,38.2,B+,Malaria,No,24.9,False
+237,PT-0060,Victor Mwangi,Male,37.0,Nakuru,2025-12-10,166.0,75.2,27.3,132.0,84.0,36.7,A+,Upper Respiratory Tract Infection,No,27.3,False
+238,PT-0376,Kevin Barasa,,40.0,Machakos,2025-12-27,155.0,74.3,,123.0,82.0,39.6,AB+,Malaria,No,30.9,False
+239,PT-0008,Victor Kariuki,Male,29.0,Kisumu,2025-06-29,173.0,80.4,26.9,125.0,84.0,38.3,A+,Pneumonia,No,26.9,False
+240,PT-0001,George Otieno,Male,70.0,Nairobi,1925-05-20,177.0,84.1,26.8,117.0,69.0,,A-,,Yes,26.8,False
+242,PT-0218,Lucy Kiplagat,Female,,Nakuru,2025-11-24,165.0,62.7,23.0,113.0,71.0,38.7,O+,Malaria,No,23.0,False
+243,PT-0267,Amina Kiplagat,Female,34.0,Machakos,2025-04-22,149.0,59.4,26.8,134.0,90.0,38.7,AB+,Typhoid,,26.8,False
+244,PT-0122,Halima Omondi,Female,78.0,,2025-08-03,159.0,53.1,21.0,118.0,79.0,37.4,,Hypertension,No,21.0,False
+245,PT-0109,Grace Kamau,Female,42.0,Kiambu,2025-08-15,155.0,53.6,22.3,151.0,98.0,36.4,AB+,Hypertension,No,22.3,False
+246,PT-0171,Kevin Kamau,Male,20.0,Mombasa,2025-12-11,165.0,635.0,23.3,119.0,69.0,38.5,A+,,No,,True
+247,PT-0194,Brian Chebet,Male,37.0,Machakos,,171.0,54.6,18.7,118.0,77.0,39.3,B+,Malaria,No,18.7,False
+248,PT-0212,Purity Wambui,Female,27.0,Nairobi,,155.0,41.3,17.2,146.0,97.0,37.7,,Hypertension,No,17.2,False
+249,PT-0006,Kevin Nyambura,,30.0,Nakuru,2025-07-02,166.0,57.8,21.0,109.0,71.0,38.1,O+,,No,21.0,False
+250,PT-0005,Tabitha Kariuki,Female,78.0,Nairobi,2025-07-20,173.0,84.7,28.3,113.0,72.0,38.4,B+,Pneumonia,No,28.3,False
+251,PT-0378,Ian Mutua,Male,61.0,Nairobi,2025-11-21,180.0,67.9,21.0,155.0,90.0,36.7,A+,Hypertension,No,21.0,False
+252,PT-0058,Samuel Kariuki,Male,38.0,Kiambu,2025-09-22,171.0,88.4,30.2,102.0,62.0,38.6,A+,Pneumonia,No,30.2,False
+254,PT-0380,Purity Kamau,Female,42.0,Machakos,2025-11-10,147.0,44.8,20.7,118.0,73.0,37.22,A+,Upper Respiratory Tract Infection,No,20.7,False
+256,PT-0222,Hassan Njoroge,Male,18.0,Nairobi,2025-07-14,170.0,70.6,24.4,400.0,74.0,39.1,B+,Typhoid,No,24.4,True
+257,PT-0381,Hassan Mwangi,Male,18.0,Kisumu,2025-04-13,175.0,74.4,24.3,103.0,68.0,39.2,O+,Malaria,No,24.3,False
+258,PT-0048,Samuel Kiplagat,Male,43.0,Nakuru,2025-04-14,167.0,75.5,27.1,144.0,93.0,36.8,O+,Hypertension,No,27.1,False
+259,PT-0273,Quentin Otieno,Male,,Nakuru,2025-04-24,177.0,76.0,24.3,152.0,94.0,37.0,O+,Hypertension,,24.3,False
+260,PT-0121,Zawadi Chebet,Female,32.0,Nairobi,2025-06-08,168.0,999.0,29.7,123.0,81.0,39.6,O+,Malaria,Yes,,True
+261,PT-0247,Oscar Barasa,Male,40.0,Machakos,2025-03-08,190.0,81.5,22.6,138.0,80.0,36.9,A+,Hypertension,Yes,22.6,False
+262,PT-0308,David Otieno,Male,21.0,Nakuru,2025-07-21,170.0,79.5,27.5,111.0,,37.3,,Upper Respiratory Tract Infection,No,27.5,False
+263,PT-0167,Halima Chebet,Female,30.0,Nairobi,2025-09-19,,67.7,25.5,115.0,74.0,38.5,B+,Pneumonia,No,,False
+264,PT-0310,Hassan Wafula,Male,70.0,Nakuru,2025-06-18,186.0,83.0,24.0,159.0,105.0,36.7,O+,Hypertension,No,24.0,False
+265,PT-0210,Hassan Abdi,Male,37.0,Kisumu,2025-10-16,169.0,,21.9,91.0,55.0,38.5,O+,Pneumonia,No,,False
+266,PT-0292,Amina Barasa,Female,40.0,Nakuru,2025-08-27,166.0,49.1,17.8,108.0,63.0,38.5,B-,Pneumonia,Yes,17.8,False
+267,PT-0223,Yusuf Wambui,Male,30.0,Nairobi,2025-07-28,163.0,47.0,17.7,114.0,66.0,38.39,O+,Pneumonia,Yes,17.7,False
+268,PT-0214,Grace Mwangi,Female,,Kiambu,2025-05-29,152.0,,24.3,132.0,85.0,38.8,A+,Malaria,No,,False
+269,PT-0323,Collins Kiplagat,Male,65.0,Kisumu,2025-06-02,170.0,65.6,22.7,158.0,94.0,36.7,B+,Hypertension,No,22.7,False
+270,PT-0293,Purity Otieno,Female,30.0,Kisumu,2025-11-29,163.0,63.8,24.0,115.0,68.0,38.8,O+,Pneumonia,Yes,24.0,False
+271,PT-0271,Brian Mwangi,Male,18.0,Kiambu,2025-03-09,179.0,64.8,20.2,109.0,73.0,38.4,B+,Pneumonia,No,20.2,False
+272,PT-0043,Grace Njoroge,Female,18.0,Machakos,2025-03-20,155.0,56.6,,128.0,75.0,37.8,O-,Type 2 Diabetes,No,23.6,False
+273,PT-0382,Zawadi Kamau,Female,63.0,Mombasa,2025-02-02,162.0,82.5,31.4,118.0,77.0,36.0,O+,Type 2 Diabetes,,31.4,False
+274,PT-0357,Naomi Kamau,Female,,Mombasa,2025-08-15,,46.9,20.8,164.0,97.0,35.89,A+,Hypertension,No,,True
+275,PT-0306,Grace Achieng,Female,40.0,Kiambu,2025-07-27,159.0,67.4,26.7,147.0,92.0,37.1,A+,Hypertension,Yes,26.7,False
+276,PT-0077,Tabitha Achieng,Female,59.0,Nairobi,2025-01-28,169.0,86.2,30.2,140.0,84.0,36.9,B+,Hypertension,No,30.2,False
+277,PT-0366,Hassan Chebet,Male,56.0,Mombasa,2025-09-16,174.0,100.3,33.1,113.0,,36.6,O+,Type 2 Diabetes,Yes,33.1,False
+278,PT-0374,Daniel Omondi,Male,67.0,Kiambu,2025-11-24,167.0,,20.8,161.0,107.0,36.4,A+,Hypertension,No,,False
+279,PT-0074,Samuel Mutua,Male,37.0,Kisumu,2025-06-14,,65.7,20.1,,,39.2,B+,Pneumonia,No,,True
+280,PT-0300,Joyce Mutua,Female,57.0,Nairobi,2025-02-09,158.0,59.5,23.8,120.0,75.0,38.7,A+,Pneumonia,No,23.8,False
+281,PT-0354,Collins Barasa,Male,35.0,Kisumu,2025-11-06,171.0,63.4,21.7,114.0,67.0,38.5,O+,Typhoid,No,21.7,False
+282,PT-0299,Yusuf Wambui,,50.0,Kisumu,2025-06-07,169.0,65.2,22.8,120.0,79.0,36.9,B-,Upper Respiratory Tract Infection,No,22.8,False
+283,PT-0153,Amina Achieng,Female,37.0,Nakuru,2025-09-14,161.0,78.8,30.4,119.0,69.0,38.5,B+,Pneumonia,No,30.4,False
+284,PT-0033,Peter Otieno,Male,52.0,Nakuru,2025-05-15,171.0,92.1,31.5,126.0,83.0,37.5,O+,Type 2 Diabetes,No,31.5,False
+285,PT-0016,Tabitha Achieng,Female,32.0,Nairobi,2025-11-07,162.0,,23.2,134.0,86.0,,A+,Upper Respiratory Tract Infection,No,,False
+286,PT-0108,Collins Njoroge,Male,46.0,Machakos,2025-11-12,176.0,70.3,22.7,134.0,82.0,36.9,O+,Upper Respiratory Tract Infection,Yes,22.7,False
+288,PT-0148,Wanjiru Kiplagat,Female,41.0,Machakos,2025-07-24,175.0,55.1,18.0,129.0,78.0,37.7,,Typhoid,Yes,18.0,False
+289,PT-0255,Brian Mwangi,Male,38.0,,2025-07-23,177.0,77.3,24.7,115.0,,36.3,A+,,No,24.7,False
+292,PT-0173,Samuel Achieng,Male,36.0,Nakuru,2025-12-11,171.0,91.1,31.2,109.0,67.0,39.2,,Pneumonia,No,31.2,False
+293,PT-0317,Cynthia Kariuki,Female,41.0,Kisumu,2025-08-25,156.0,60.8,25.0,116.0,68.0,38.7,O+,Malaria,No,25.0,False
+294,PT-0018,Peter Mutua,Male,42.0,,2025-01-29,173.0,76.5,25.6,122.0,75.0,38.6,AB+,Malaria,No,25.6,False
+295,PT-0157,Daniel Otieno,Male,57.0,Nakuru,2025-02-27,179.0,80.3,25.1,117.0,79.0,36.8,B+,Type 2 Diabetes,No,25.1,False
+296,PT-0391,Tabitha Otieno,Female,51.0,Kiambu,2025-04-28,156.0,56.1,23.1,125.0,78.0,38.8,,Malaria,No,23.1,False
+298,PT-0334,Yusuf Mwangi,Male,50.0,Kisumu,2025-07-03,177.0,69.3,,175.0,110.0,36.0,AB+,Hypertension,No,22.1,False
+299,PT-0400,Quentin Achieng,Male,50.0,Machakos,2025-10-03,178.0,83.4,26.3,135.0,78.0,38.7,B+,Malaria,No,26.3,False
+300,PT-0351,Victor Wafula,Male,64.0,,2025-10-29,164.0,63.2,23.5,123.0,77.0,36.2,B-,Upper Respiratory Tract Infection,,23.5,False
+301,PT-0347,Tabitha Wafula,Female,33.0,Nairobi,2025-07-08,154.0,,24.0,111.0,73.0,36.5,O-,Upper Respiratory Tract Infection,No,,False
+302,PT-0209,Cynthia Achieng,,47.0,Kiambu,2025-04-02,159.0,67.7,26.8,98.0,62.0,37.8,B+,Malaria,,26.8,False
+303,PT-0065,Yusuf Wafula,Male,56.0,Nairobi,2025-11-06,168.0,67.0,23.7,139.0,80.0,36.8,A+,Type 2 Diabetes,No,23.7,False
+304,PT-0011,Hassan Omondi,Male,61.0,Machakos,2025-05-10,179.0,,26.8,165.0,103.0,36.5,B+,Hypertension,No,,False
+305,PT-0360,George Wambui,Male,,Nairobi,2025-02-07,171.0,93.1,31.8,130.0,76.0,,O+,Type 2 Diabetes,No,31.8,True
+306,PT-0112,George Abdi,Male,56.0,Kiambu,2025-03-28,172.0,70.2,,143.0,,,O+,Hypertension,No,23.7,True
+307,PT-0399,Kevin Omondi,Male,34.0,Machakos,2025-10-31,167.0,65.2,,114.0,75.0,38.3,A+,Typhoid,No,23.4,False
+308,PT-0365,Naomi Njoroge,Female,,Nairobi,2025-08-12,157.0,63.9,25.9,136.0,87.0,36.7,,Upper Respiratory Tract Infection,No,25.9,False
+309,PT-0325,Lucy Otieno,Female,30.0,Nairobi,2025-03-18,164.0,74.8,27.8,98.0,62.0,36.9,O+,Upper Respiratory Tract Infection,No,27.8,False
+310,PT-0094,Quentin Nyambura,Male,23.0,,2025-11-10,168.0,61.0,21.6,123.0,78.0,37.11,O+,Upper Respiratory Tract Infection,No,21.6,False
+311,PT-0394,Oscar Achieng,Male,63.0,Kiambu,2025-04-19,173.0,85.9,,115.0,,37.11,A+,Hypertension,Yes,28.7,False
+312,PT-0294,Wanjiru Otieno,Female,44.0,Nakuru,,158.0,57.3,23.0,107.0,66.0,38.1,O+,Typhoid,,23.0,False
+313,PT-0262,Kevin Mutua,Male,39.0,Kiambu,2025-07-31,174.0,91.0,30.1,123.0,79.0,38.9,O-,Malaria,No,30.1,False
+314,PT-0101,Kevin Kamau,Male,49.0,Nakuru,2025-02-04,16.8,67.6,24.0,135.0,88.0,37.0,A+,Hypertension,No,,True
+315,PT-0168,Halima Omondi,Female,61.0,Nairobi,2025-10-01,159.0,67.4,26.7,157.0,96.0,36.6,A+,Hypertension,No,26.7,False
+316,PT-0066,Ian Omondi,Male,37.0,Mombasa,2025-12-31,166.0,89.3,32.4,126.0,82.0,,O+,Typhoid,No,32.4,False
+317,PT-0315,Zawadi Barasa,Female,365.0,Kisumu,2025-04-10,,75.7,28.5,98.0,57.0,36.8,O+,Upper Respiratory Tract Infection,No,,True
+318,PT-0242,Cynthia Otieno,Female,33.0,Kiambu,2025-10-25,154.0,47.0,19.8,129.0,77.0,36.2,O+,Upper Respiratory Tract Infection,Yes,19.8,False
+319,PT-0007,Collins Kariuki,Male,28.0,Nakuru,2025-11-21,,80.1,22.7,134.0,81.0,38.5,O+,Pneumonia,No,,True
+320,PT-0150,George Wafula,Male,18.0,Kisumu,2025-12-09,181.0,104.6,31.9,114.0,68.0,38.3,O+,Pneumonia,No,31.9,False
+321,PT-0373,David Achieng,Male,,Nairobi,2025-08-09,169.0,62.6,21.9,127.0,77.0,,O+,Pneumonia,No,21.9,False
+322,PT-0393,Faith Nyambura,Female,46.0,Nairobi,2025-06-26,150.0,57.9,25.7,123.0,77.0,36.5,,Upper Respiratory Tract Infection,No,25.7,False
+323,PT-0149,Samuel Wambui,Male,71.0,Kiambu,2025-04-02,174.0,80.8,26.7,400.0,69.0,36.2,A+,Upper Respiratory Tract Infection,No,26.7,True
+324,PT-0330,Oscar Achieng,Male,55.0,Kiambu,2025-02-06,173.0,90.2,26.1,125.0,72.0,39.2,O+,Malaria,Yes,30.1,True
+325,PT-0353,David Nyambura,Male,18.0,Kiambu,2025-12-21,179.0,62.8,19.6,139.0,82.0,37.7,A+,Upper Respiratory Tract Infection,No,19.6,False
+326,PT-0253,Faith Achieng,Female,18.0,Kisumu,2025-09-20,154.0,,26.5,,77.0,39.3,O+,Malaria,No,,False
+327,PT-0322,Tabitha Kariuki,Female,41.0,Machakos,2025-10-16,162.0,64.4,24.5,112.0,65.0,36.7,O+,Upper Respiratory Tract Infection,No,24.5,False
+328,PT-0186,Victor Mwangi,Male,26.0,Nairobi,2025-04-28,172.0,79.8,27.0,,64.0,38.6,O+,Typhoid,No,27.0,False
+329,PT-0142,Quentin Chebet,Male,21.0,Kisumu,2025-02-08,174.0,100.8,33.3,137.0,91.0,37.5,A+,Type 2 Diabetes,No,33.3,False
+330,PT-0133,Collins Abdi,Male,43.0,Kiambu,2025-02-22,173.0,68.2,22.8,103.0,69.0,38.1,A-,Typhoid,No,22.8,False
+331,PT-0119,George Wambui,Male,67.0,Nairobi,2025-01-31,163.0,,22.1,115.0,67.0,3.7,AB+,Malaria,No,,True
+332,PT-0245,Daniel Mutua,Male,18.0,Kiambu,2025-05-22,160.0,66.1,25.8,120.0,80.0,39.5,A-,Malaria,No,25.8,False
+333,PT-0288,Cynthia Nyambura,Female,18.0,Kisumu,2025-09-09,161.0,61.4,23.7,129.0,85.0,36.6,O+,Upper Respiratory Tract Infection,No,23.7,False
+334,PT-0120,Victor Mwangi,Male,63.0,Nairobi,2025-12-24,177.0,67.5,,130.0,81.0,36.2,O-,Type 2 Diabetes,No,21.5,False
+335,PT-0090,Oscar Abdi,Male,29.0,Machakos,2025-07-20,180.0,64.4,19.9,117.0,69.0,38.7,O+,Malaria,No,19.9,False
+336,PT-0039,Faith Barasa,Female,39.0,Mombasa,2025-02-18,162.0,66.8,25.5,149.0,96.0,36.3,O+,Hypertension,,25.5,False
+337,PT-0358,David Barasa,Male,18.0,Kisumu,2025-12-11,165.0,82.3,30.2,125.0,83.0,38.6,O+,Malaria,No,30.2,False
+338,PT-0307,Esther Kiplagat,Female,32.0,Kisumu,2025-09-05,153.0,41.1,17.6,126.0,82.0,36.7,A+,Upper Respiratory Tract Infection,No,17.6,False
+339,PT-0085,Zawadi Mwangi,Female,80.0,Nairobi,2025-03-25,152.0,65.8,28.5,110.0,74.0,37.3,A+,Type 2 Diabetes,No,28.5,False
+340,PT-0225,George Nyambura,Male,70.0,Nairobi,2025-08-07,179.0,78.3,24.4,,71.0,37.1,O+,Type 2 Diabetes,No,24.4,False
+341,PT-0020,Samuel Kiplagat,Male,43.0,Machakos,2025-06-27,169.0,65.2,22.8,156.0,102.0,36.39,A+,Hypertension,No,22.8,False
+342,PT-0073,Peter Abdi,Male,60.0,Kiambu,2025-03-22,181.0,114.4,34.9,125.0,75.0,37.3,O+,Type 2 Diabetes,No,34.9,False
+343,PT-0076,Moses Kiplagat,Male,35.0,Machakos,2025-06-10,183.0,100.7,30.1,127.0,78.0,37.61,AB+,Malaria,,30.1,False
+344,PT-0265,Zawadi Wambui,Female,59.0,Kisumu,2025-08-13,168.0,62.7,22.2,119.0,70.0,38.8,B-,,No,22.2,False
+345,PT-0041,Daniel Otieno,Male,53.0,Kiambu,2025-02-18,174.0,97.8,32.3,89.0,136.0,37.0,O+,Type 2 Diabetes,No,32.3,True
+346,PT-0356,Cynthia Kamau,Female,,Kiambu,2025-09-21,155.0,,26.8,123.0,81.0,37.0,,Upper Respiratory Tract Infection,No,,False
+347,PT-0111,Purity Omondi,Female,49.0,Kisumu,2025-07-05,162.0,75.4,28.7,139.0,85.0,37.2,A+,Type 2 Diabetes,No,28.7,False
+348,PT-0304,Brian Nyambura,Male,34.0,Machakos,2025-09-21,,85.3,28.8,121.0,79.0,,,Malaria,No,,True
+349,PT-0379,Peter Njoroge,Male,59.0,Nairobi,2025-11-11,168.0,80.1,28.4,143.0,89.0,37.1,O+,Hypertension,No,28.4,False
+350,PT-0049,David Abdi,Male,68.0,Mombasa,2025-11-11,180.0,96.4,29.8,164.0,97.0,36.7,O+,Hypertension,Yes,29.8,False
+351,PT-0019,George Kamau,Male,53.0,Nairobi,2025-06-06,169.0,842.0,29.5,131.0,83.0,,O+,Type 2 Diabetes,,,True
+352,PT-0044,Joyce Kariuki,Female,18.0,Machakos,2025-09-04,,79.1,28.7,124.0,82.0,36.5,B+,Upper Respiratory Tract Infection,No,,False
+353,PT-0274,Cynthia Kariuki,Female,48.0,Kiambu,2025-04-12,169.0,62.7,22.0,117.0,69.0,36.7,B+,Upper Respiratory Tract Infection,,22.0,False
+354,PT-0091,Halima Omondi,Female,36.0,Kiambu,2025-03-05,172.0,79.3,26.8,158.0,100.0,36.9,,Hypertension,No,26.8,False
+356,PT-0335,Tabitha Otieno,Female,49.0,Nairobi,2025-05-02,159.0,59.7,23.6,131.0,81.0,37.9,,Malaria,No,23.6,False
+357,PT-0161,Wanjiru Wambui,Female,41.0,Mombasa,2025-04-16,163.0,57.6,21.7,118.0,70.0,38.9,A+,Pneumonia,No,21.7,False
+358,PT-0115,Kevin Kiplagat,Male,38.0,Mombasa,2025-06-17,172.0,89.7,30.3,117.0,68.0,37.0,B+,Upper Respiratory Tract Infection,No,30.3,False
+359,PT-0329,David Abdi,Male,44.0,Nairobi,2025-10-13,168.0,66.1,23.4,138.0,86.0,36.0,B+,Hypertension,No,23.4,False
+360,PT-0069,Kevin Wafula,Male,49.0,Kisumu,2025-12-14,175.0,81.0,26.4,117.0,,36.8,,Type 2 Diabetes,No,26.4,False
+361,PT-0216,Esther Kamau,Female,28.0,Kiambu,2025-12-18,152.0,59.5,,118.0,72.0,39.2,O+,Malaria,No,25.8,False
+362,PT-0132,Lucy Kiplagat,Female,59.0,Mombasa,2025-03-12,156.0,53.0,21.8,136.0,83.0,37.7,O+,Typhoid,,21.8,False
+363,PT-0002,Ruth Kiplagat,Female,44.0,Kiambu,2025-10-02,159.0,76.3,,119.0,71.0,36.6,A+,Type 2 Diabetes,No,30.2,False
+364,PT-0188,Purity Abdi,Female,40.0,Kisumu,2025-05-16,162.0,60.7,23.1,114.0,75.0,36.5,B+,Upper Respiratory Tract Infection,No,23.1,False
+365,PT-0228,Halima Mwangi,Female,22.0,Nakuru,2025-06-04,164.0,56.8,17.1,107.0,69.0,38.8,O-,Malaria,No,21.1,True
+366,PT-0179,Amina Chebet,Female,47.0,Kiambu,2025-01-31,148.0,55.0,25.1,173.0,,,B+,Hypertension,Yes,25.1,False
+367,PT-0328,Victor Mutua,Male,38.0,Kiambu,2025-12-29,174.0,85.6,28.3,107.0,69.0,39.0,O+,Malaria,No,28.3,False
+368,PT-0182,Oscar Achieng,Male,28.0,Nairobi,2025-01-26,180.0,61.8,19.1,114.0,75.0,38.2,A+,Typhoid,No,19.1,False
+369,PT-0134,Yusuf Nyambura,Male,45.0,Machakos,2025-04-08,173.0,76.1,25.4,133.0,77.0,,A+,Typhoid,No,25.4,False
+370,PT-0224,Lucy Kariuki,Female,59.0,Machakos,2025-04-01,157.0,60.6,24.6,136.0,89.0,,O+,Type 2 Diabetes,No,24.6,True
+371,PT-0249,David Njoroge,,53.0,Kisumu,2025-03-27,174.0,83.5,27.6,157.0,95.0,37.8,B+,Hypertension,No,27.6,False
+372,PT-0284,David Njoroge,Male,7.0,Nairobi,2025-12-05,175.0,56.2,18.4,168.0,104.0,37.6,,Hypertension,No,18.4,False
+373,PT-0169,Faith Mutua,Female,45.0,Nairobi,2025-05-14,162.0,60.2,22.9,128.0,85.0,,A+,Malaria,No,22.9,False
+374,PT-0336,Wanjiru Achieng,Female,61.0,Machakos,2025-07-28,154.0,72.9,30.7,115.0,75.0,36.4,,Type 2 Diabetes,No,30.7,False
+375,PT-0264,Grace Barasa,Female,61.0,Kisumu,2025-10-16,164.0,59.3,22.0,,92.0,37.3,O+,Hypertension,No,22.0,False
+376,PT-0143,Samuel Mutua,Male,38.0,Kiambu,2025-07-04,,78.2,25.5,124.0,74.0,39.1,A+,Malaria,No,,True
+377,PT-0246,Quentin Kiplagat,Male,35.0,Kisumu,2025-08-16,164.0,67.9,25.2,137.0,89.0,38.7,O+,Pneumonia,No,25.2,False
+378,PT-0301,Peter Wafula,Male,31.0,Machakos,2025-03-18,182.0,85.2,25.7,92.0,,39.2,O-,Malaria,No,25.7,False
+379,PT-0028,Halima Barasa,Female,42.0,Machakos,2025-11-18,155.0,60.9,25.3,162.0,101.0,36.39,AB+,Hypertension,Yes,25.3,False
+380,PT-0139,Faith Otieno,Female,29.0,Nakuru,2025-07-29,,56.2,22.8,128.0,77.0,38.3,B+,Malaria,No,,False
+381,PT-0364,Victor Mutua,Male,18.0,Nairobi,2025-02-21,175.0,84.3,27.5,124.0,83.0,37.2,O+,Upper Respiratory Tract Infection,No,27.5,False
+384,PT-0024,Cynthia Nyambura,Female,38.0,Kiambu,2025-09-12,166.0,85.7,31.1,116.0,76.0,36.7,AB+,Upper Respiratory Tract Infection,No,31.1,False
+385,PT-0097,Collins Kariuki,Male,22.0,Kisumu,2025-04-30,163.0,60.7,22.8,119.0,79.0,36.7,O+,Upper Respiratory Tract Infection,No,22.8,False
+386,PT-0080,Oscar Wambui,Male,27.0,Kiambu,2025-01-15,158.0,64.8,26.0,117.0,78.0,38.6,B+,Malaria,No,26.0,False
+388,PT-0193,Ruth Wafula,Female,,Machakos,2025-07-29,158.0,54.0,21.6,133.0,77.0,38.6,O+,Malaria,No,21.6,False
+389,PT-0243,Zawadi Achieng,Female,37.0,Kiambu,2025-05-09,170.0,60.2,20.8,179.0,111.0,37.3,O+,Hypertension,No,20.8,False
+390,PT-0371,Quentin Achieng,,55.0,Mombasa,2025-08-17,182.0,85.8,,119.0,75.0,,B+,Type 2 Diabetes,No,25.9,True
+391,PT-0172,Quentin Wambui,Male,56.0,Nakuru,2025-12-11,169.0,65.2,22.8,154.0,97.0,36.3,B+,Hypertension,No,22.8,False
+392,PT-0327,Collins Otieno,Male,26.0,Nairobi,2025-09-22,178.0,,27.5,90.0,55.0,37.4,O+,Type 2 Diabetes,No,,False
+393,PT-0068,Daniel Kamau,Male,55.0,Kiambu,2025-04-05,167.0,67.1,24.1,119.0,69.0,37.3,A+,Upper Respiratory Tract Infection,Yes,24.1,False
+394,PT-0146,Mercy Kariuki,Female,57.0,Nakuru,2025-11-08,155.0,55.4,23.1,120.0,71.0,38.8,O+,Malaria,No,23.1,False
+396,PT-0082,Peter Omondi,Male,46.0,Nairobi,2025-02-19,172.0,82.3,,130.0,85.0,37.2,A+,,No,27.8,True
+397,PT-0232,Brian Chebet,Male,60.0,Nairobi,2025-03-22,170.0,78.3,,130.0,86.0,36.2,O+,Type 2 Diabetes,No,27.1,True
+398,PT-0038,Ian Njoroge,Male,50.0,Nakuru,2032-03-11,173.0,54.5,18.2,141.0,83.0,37.8,O-,Hypertension,,18.2,False
+399,PT-0331,Kevin Omondi,Male,44.0,Kisumu,2025-12-15,189.0,,22.9,107.0,68.0,37.6,B+,Malaria,Yes,,False
+400,PT-0386,David Mwangi,Male,44.0,Nairobi,2025-11-12,180.0,90.7,,152.0,99.0,37.0,O+,Hypertension,No,28.0,False
+401,PT-0141,Esther Wambui,Female,,Mombasa,2025-06-01,157.0,566.0,23.0,137.0,82.0,37.5,O+,Hypertension,No,,True
+402,PT-0035,Joyce Wafula,Female,25.0,Mombasa,2025-01-10,151.0,999.0,20.6,122.0,76.0,39.4,O+,Typhoid,No,,True
+403,PT-0389,Mercy Chebet,Female,42.0,,2025-09-17,158.0,66.4,26.6,110.0,,38.9,A+,Malaria,Yes,26.6,False
+404,PT-0126,Joyce Chebet,Female,47.0,Kiambu,2025-01-26,166.0,76.9,27.9,145.0,95.0,37.2,A+,Hypertension,,27.9,False
+405,PT-0237,Hassan Achieng,Male,34.0,Nakuru,2025-05-21,,68.5,23.4,122.0,75.0,38.7,O+,Pneumonia,No,,True
+406,PT-0302,Wanjiru Barasa,Female,50.0,Kiambu,2025-03-14,170.0,77.0,26.6,120.0,77.0,38.9,A+,Typhoid,,26.6,False
+407,PT-0254,Collins Omondi,Male,20.0,Nairobi,2025-06-09,,63.8,24.9,113.0,70.0,,O+,Malaria,No,,True
+408,PT-0177,Yusuf Otieno,Male,33.0,,2025-08-26,,94.1,,,87.0,36.2,O+,,No,,True
+409,PT-0093,Oscar Otieno,,48.0,Nakuru,2025-07-03,169.0,69.5,24.3,110.0,66.0,39.1,O-,Pneumonia,No,24.3,False
+410,PT-0110,Yusuf Barasa,Male,49.0,Machakos,2025-12-06,179.0,95.5,29.8,123.0,,36.3,A+,Type 2 Diabetes,No,29.8,False
+411,PT-0281,Collins Abdi,Male,40.0,Kisumu,2025-05-31,169.0,74.9,26.2,121.0,71.0,38.6,O+,Typhoid,No,26.2,False
+412,PT-0339,Yusuf Abdi,Male,35.0,Kisumu,,178.0,,27.6,137.0,88.0,36.9,B+,Upper Respiratory Tract Infection,No,,False
+413,PT-0072,Cynthia Kiplagat,Female,34.0,Nakuru,2025-10-11,155.0,62.5,26.0,,58.0,38.3,A+,Malaria,No,26.0,False
+414,PT-0162,Ian Kariuki,Male,21.0,Nairobi,2025-05-04,173.0,92.0,30.7,105.0,61.0,38.6,A+,Pneumonia,No,30.7,False
+415,PT-0333,David Chebet,Male,40.0,Nairobi,2025-11-17,163.0,58.5,22.0,137.0,88.0,36.9,O+,Upper Respiratory Tract Infection,No,22.0,False
+416,PT-0270,Ruth Otieno,Female,45.0,Nakuru,,162.0,64.5,24.6,122.0,76.0,,B+,Type 2 Diabetes,No,24.6,True
+417,PT-0338,Ruth Wambui,Female,65.0,Nairobi,2025-10-28,156.0,80.1,32.9,141.0,86.0,36.7,B+,Type 2 Diabetes,Yes,32.9,False
+418,PT-0092,Ruth Kiplagat,Female,47.0,Kisumu,2025-05-12,158.0,62.0,30.8,,75.0,39.0,O+,Malaria,No,24.8,True
+419,PT-0081,Brian Kamau,Male,36.0,Nakuru,2025-07-20,168.0,64.2,22.7,155.0,103.0,36.8,O+,Hypertension,No,22.7,False
+420,PT-0192,Amina Barasa,Female,40.0,Mombasa,2025-06-06,157.0,66.6,27.0,126.0,83.0,37.0,AB+,Type 2 Diabetes,Yes,27.0,False
